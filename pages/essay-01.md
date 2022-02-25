@@ -10,6 +10,11 @@ permalink: /essay-01.html
 
 ## Introduction
 
+The labor movement has been an important fascet of American counterculture. It opposed the increased industrialization of the country, and advocated for greater control of industries by the laborers themselves.
+This advocacy often led to a fear of Communism, and labor unions were strongly opposed by the industrial bourgoise. However, despite these challenges, the labor movement was able to fundamentally change the economy.
+
+This movement's influence and impact on American politics and economics in the 20th Century will be analyzed here.
+
 Here's some sample text, written in Markdown.
 In Markdown, any text with no empty lines between will become a paragraph.
 
