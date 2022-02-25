@@ -6,7 +6,7 @@ permalink: /essay-01.html
 
 {% include feature/nav-menu.html sections="Introduction;Conclusion;Notes" %}
 
-# Union Membership in the United States: Changes in the 20th Century
+# Union Membership in the United States: Beginning of the 20th Century to WWII
 
 ## Introduction
 
