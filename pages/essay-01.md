@@ -23,16 +23,11 @@ Everyone should be aware of what's [going on](https://liveuamap.com/) in Europe 
 3. I'm also sick of living through historic events, its not healthy
 
 
-Here's some sample text, written in Markdown.
-In Markdown, any text with no empty lines between will become a paragraph.
 
-Leave an empty line between headings and paragraphs.
-
-Font can be *Italic* or **Bold**.
 
 Citing your work is important! [^1]
 
-Title sections of your essay with headings, by adding a pound sign (`#`) in front of the title:
+
 
 # Heading One
 
@@ -40,20 +35,7 @@ Title sections of your essay with headings, by adding a pound sign (`#`) in fron
 
 ### Heading Three, etc.
 
-Hyperlinks look like this [GitHub Help](https://help.github.com/).
 
-A bullet list is created using `*`, `+`, or `-`, like:
-
-- dog
-- cat
-- muffin
-
-A numbered list is created using a number + `.`, like:
-
-1. one
-2. two
-6. three
-2. four
 
 A horizontal line break can be useful for separating content:
 
