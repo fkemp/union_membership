@@ -15,6 +15,14 @@ This advocacy often led to a fear of Communism, and labor unions were strongly o
 
 This movement's influence and impact on American politics and economics in the 20th Century will be analyzed here.
 
+
+**Testing fonts** but this basically works like *Discord*, so I'm familiar with it.
+Everyone should be aware of what's [going on](https://liveuamap.com/) in Europe right now.
+1. its a historic trend that the US choses not to involve itself internationally
+2. continuing this trend now will damage the US reputation as global hegemon
+3. I'm also sick of living through historic events, its not healthy
+
+
 Here's some sample text, written in Markdown.
 In Markdown, any text with no empty lines between will become a paragraph.
 
