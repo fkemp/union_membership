@@ -4,7 +4,7 @@ layout: about
 permalink: /essay-01.html
 ---
 
-{% include feature/nav-menu.html sections="Introduction;Conclusion;Notes" %}
+{% include feature/nav-menu.html sections="Introduction;My First Subheading;Conclusion;Notes" %}
 
 # Union Membership in the United States: Beginning of the 20th Century to WWII
 
@@ -39,7 +39,7 @@ Citing your work is important! [^2]
 
 ## Heading Two
 
-### Heading Three, etc.
+### My First Subheading
 
 
 
