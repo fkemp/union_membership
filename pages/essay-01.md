@@ -35,7 +35,7 @@ Everyone should be aware of what's [going on](https://liveuamap.com/) in Europe 
 
 Citing your work is important! [^2]
 
-
+{% include feature/image.html filename="party-platforms-1900-1948-graph.png" alt="Graph of the frequency of union, labor, econo*, and unrest in party platforms from 1900 to 1944" link="https://voyant-tools.org/?corpus=31498a1aeef7dc306bbe789806cdf58f&query=government&query=republican&query=party&query=american&query=people&view=Trends" %}
 
 # Heading One
 
