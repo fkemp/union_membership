@@ -8,6 +8,8 @@ permalink: /essay-01.html
 
 # Union Membership in the United States: Beginning of the 20th Century to WWII
 
+{% include feature/image.html filename="voyantcloud1.png" alt="Word cloud of Republican Party Platforms from 1948-2000" %}
+
 {% include feature/line-chart.html data="party-platforms-1900-1944-all" topic=" economic reform" %}
 Economic reform has been and continues to be one of the major desires of the labor movement. Observing how often this came up in party platforms, and who mentioned it gives us greater insight into the political influence of the labor movement, and the response from the political community.
 ## Introduction
