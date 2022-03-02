@@ -13,6 +13,11 @@ Economic reform has been and continues to be one of the major desires of the lab
 ## Introduction
 
 The labor movement has been an important fascet of American counterculture. It opposed the increased industrialization of the country, and advocated for greater control of industries by the laborers themselves.[^1]
+
+---
+
+[GitHub Help](https://help.github.com/){:target="_blank" rel="noopener"}
+
 This advocacy often led to a fear of Communism, and labor unions were strongly opposed by the industrial bourgoise. However, despite these challenges, the labor movement was able to fundamentally change the economy.
 
 This movement's influence and impact on American politics and economics in the 20th Century will be analyzed here.
@@ -23,7 +28,6 @@ Everyone should be aware of what's [going on](https://liveuamap.com/) in Europe 
 1. its a historic trend that the US choses not to involve itself internationally
 2. continuing this trend now will damage the US reputation as global hegemon
 3. I'm also sick of living through historic events, its not healthy
-
 
 
 
