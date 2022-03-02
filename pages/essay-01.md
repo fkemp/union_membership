@@ -12,7 +12,7 @@ permalink: /essay-01.html
 Economic reform has been and continues to be one of the major desires of the labor movement. Observing how often this came up in party platforms, and who mentioned it gives us greater insight into the political influence of the labor movement, and the response from the political community.
 ## Introduction
 
-The labor movement has been an important fascet of American counterculture. It opposed the increased industrialization of the country, and advocated for greater control of industries by the laborers themselves.
+The labor movement has been an important fascet of American counterculture. It opposed the increased industrialization of the country, and advocated for greater control of industries by the laborers themselves.[^1]
 This advocacy often led to a fear of Communism, and labor unions were strongly opposed by the industrial bourgoise. However, despite these challenges, the labor movement was able to fundamentally change the economy.
 
 This movement's influence and impact on American politics and economics in the 20th Century will be analyzed here.
@@ -27,7 +27,7 @@ Everyone should be aware of what's [going on](https://liveuamap.com/) in Europe 
 
 
 
-Citing your work is important! [^1]
+Citing your work is important! [^2]
 
 
 
@@ -57,4 +57,5 @@ More documentation on how to write your essay in Markdown--as well as how to inc
 
 ## Notes
 
-[^1]: Katie Kitamura, A Separation (New York: Riverhead Books, 2017), 25.
+[^1]: John D’Agata, ed., *The Making of the American Essay* (Minneapolis: Graywolf Press, 2016), 19–20.
+[^2]: Katie Kitamura, A Separation (New York: Riverhead Books, 2017), 25.
