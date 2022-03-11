@@ -15,7 +15,7 @@ The Labor movement in the United States is a significant aspect of the cultural 
 
 In attempting to change the economic structure of the United States, and to balance the power of businesses, various labor groups, including unions (both national and local), and various political parties (such as the Socialist and Communist parties), used their public platforms to bring awareness and attention to their causes. Labor unions focused primarily on engaging directly with businesses, striking, quitting, and engaging in discussions to achieve their goals. In response to these challenges, businesses utilized coercive and violent measures to break strikes and prevent unions, while also appealing to the government for aid. In response to this violence, laborers would bomb and destroy property, and some went as far as to try and attack their overseers and bosses. Political parties took these issues to government, challenging standing law, and presenting legal opposition to businesses and the economic structure. They ran candidates, and generated political action, passing new laws, and shifting the political climate to the left. This likewise fueled conflict, as opponents claimed conspiracies and insurgency. Particularly after the Bolshevik Revolution, a fear of communism prevented the welcoming of more progressive laws. However, these fears did not prevent changes from being made, as both major parties adopted parts of these agendas to appeal to a broader constituency. Often violent, and shaped by conflict, the labor movement propelled the adoption of many workplace standards we have today.
 
---
+---
 
 ### 1900s
 
@@ -56,7 +56,7 @@ This new military-industrial complex, as well as the institution of a draft, ope
 
 {% include feature/image.html filename="african-americans-wwii-workforce.jpg" alt="A black woman, Annie Tarbor, is employed in factory work in the midwest, working a lathe" caption="Annie Tarbor works in a Milwaukee factory making aircraft engines for the war effort" link="https://www.loc.gov/resource/fsa.8b07728/" %}[^10]
 
---
+---
 
 ## Conclusion
 
