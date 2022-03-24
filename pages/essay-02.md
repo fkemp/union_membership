@@ -8,7 +8,7 @@ permalink: /essay-02.html
 
 # Labor and the State: 20th Century USA
 
-{% include feature/image.html filename="service-pnp-fsa-8e04000-8e04100-8e04113r.jpg" alt="Image of a poster saying "Growers & Shippers Cooperative Union Inc. Mass Meeting Hammond; Saturday, April 18 7:30 pm; Come out and hear the true facts berry deal. Learn who are the true enemies of the farmer. They will be exposed at this meeting; Find out the method by which the so-called farmers friend is skinning the farmer. Don't Fail To Attend."" caption="A poster that encourages farmers to unionize" link="https://lccn.loc.gov/2017762003" %}
+{% include feature/image.html filename="service-pnp-fsa-8e04000-8e04100-8e04113r.jpg" alt="Image of a poster saying Growers & Shippers Cooperative Union Inc. Mass Meeting Hammond; Saturday, April 18 7:30 pm; Come out and hear the true facts berry deal. Learn who are the true enemies of the farmer. They will be exposed at this meeting; Find out the method by which the so-called farmers friend is skinning the farmer. Don't Fail To Attend." caption="A poster that encourages farmers to unionize" link="https://lccn.loc.gov/2017762003" %}
 
 
 ## Introduction
