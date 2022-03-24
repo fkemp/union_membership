@@ -55,6 +55,11 @@ This new military-industrial complex, as well as the institution of a draft, ope
 
 {% include feature/image.html filename="african-americans-wwii-workforce.jpg" alt="A black woman, Annie Tarbor, is employed in factory work in the midwest, working a lathe" caption="Annie Tarbor works in a Milwaukee factory making aircraft engines for the war effort" link="https://www.loc.gov/resource/fsa.8b07728/" %}[^10]
 
+
+
+{% include feature/image.html filename="service-pnp-fsa-8e04000-8e04100-8e04113r.jpg" alt="Image of a poster saying "Growers & Shippers Cooperative Union Inc. Mass Meeting Hammond; Saturday, April 18 7:30 pm; Come out and hear the true facts berry deal. Learn who are the true enemies of the farmer. They will be exposed at this meeting; Find out the method by which the so-called farmers friend is skinning the farmer. Don't Fail To Attend."" caption="A poster that encourages farmers to unionize" link="https://lccn.loc.gov/2017762003" %}
+
+
 ---
 
 ## Conclusion
