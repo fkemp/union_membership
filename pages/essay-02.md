@@ -8,6 +8,9 @@ permalink: /essay-02.html
 
 # Labor and the State: 20th Century USA
 
+{% include feature/image.html filename="service-pnp-fsa-8e04000-8e04100-8e04113r.jpg" alt="Image of a poster saying "Growers & Shippers Cooperative Union Inc. Mass Meeting Hammond; Saturday, April 18 7:30 pm; Come out and hear the true facts berry deal. Learn who are the true enemies of the farmer. They will be exposed at this meeting; Find out the method by which the so-called farmers friend is skinning the farmer. Don't Fail To Attend."" caption="A poster that encourages farmers to unionize" link="https://lccn.loc.gov/2017762003" %}
+
+
 ## Introduction
 
 The Labor movement in the United States is a significant aspect of the cultural revolution that occurred post industrialization. While seeking to shape the paradigm of economics and business that grew out of the late 1800’s, various labor groups appealed to workers and corporations, as well as to the government. These appeals took many forms, most visible were methods of direct action, such as strikes, to secure their various demands. This conflict did not only end with peaceful and beneficial resolutions, as the labor movement was often mired with accusations of communism and fell victim to Red Scares. There were constant fears that organized labor would destroy American society, or that they were conspiring against the nation. 
@@ -56,8 +59,6 @@ This new military-industrial complex, as well as the institution of a draft, ope
 {% include feature/image.html filename="african-americans-wwii-workforce.jpg" alt="A black woman, Annie Tarbor, is employed in factory work in the midwest, working a lathe" caption="Annie Tarbor works in a Milwaukee factory making aircraft engines for the war effort" link="https://www.loc.gov/resource/fsa.8b07728/" %}[^10]
 
 
-
-{% include feature/image.html filename="service-pnp-fsa-8e04000-8e04100-8e04113r.jpg" alt="Image of a poster saying "Growers & Shippers Cooperative Union Inc. Mass Meeting Hammond; Saturday, April 18 7:30 pm; Come out and hear the true facts berry deal. Learn who are the true enemies of the farmer. They will be exposed at this meeting; Find out the method by which the so-called farmers friend is skinning the farmer. Don't Fail To Attend."" caption="A poster that encourages farmers to unionize" link="https://lccn.loc.gov/2017762003" %}
 
 
 ---
