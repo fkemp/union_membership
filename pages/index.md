@@ -5,12 +5,6 @@ permalink: /
 credits: true
 ---
 
-# Digital History Project
+# American Labor History
 
-This is the project site for the HIST 320 digital history project. Instructions for how to use this site to write your multimedia essay can be found at the accompanying documentation site, <https://learn-static.github.io/hist-320/web-setup.html>.
-
-Your Essay in Progress will be written on the [Essay In Progress](/essay-01.html) page, while your final essay will be written on the [Final Essay](/essay-02.html) page. 
-
-Links to all of the State of the Union Addresses and Party Platforms used in our text analysis and topic modeling can be found on the [Data](/data.html) page.
-
-[Topic visualizations](/topics/sotu-20th-century-topics.html) will appear as you name them, and you can use the [Include Generator](/generator.html) page to create code that includes supporting documents and images into your essays.
+This is a brief analysis of the history of labor relations in the United States during the 20th Century. It explores the rise and fall of labor unions, as well as the political and social shifts that influenced these trends. It explores, through laws and case study, the interplay between government and politics, mainstream society, and the labor movement.
