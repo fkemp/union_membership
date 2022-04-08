@@ -60,7 +60,7 @@ This new military-industrial complex, as well as the institution of a draft, ope
 
 
 
-
+{% include feature/line-chart.html data="party-platforms-1948-2000-republican" topic=" social welfare" %}
 ---
 
 ## Conclusion
