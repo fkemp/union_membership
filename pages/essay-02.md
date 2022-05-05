@@ -25,10 +25,13 @@ The turn of the century saw the rise of industrial capitalism in the United Stat
 
 Immigrants and racial minorities struggled to achieve the same prosperity as their bourgeoise counterparts, and many industrial workers turned to labor unions to demand better pay and safer work. There was some hope, after Theodore Roosevelt became president, that he would support the labor movement. A major strike of the era was the Anthracite Coal Strike of 1902 in Pennsylvania. They went on strike seeking an 8-hour workday, recognition of the union, and better pay. Business leaders resisted these demands, and violent resistance broke out in the region. The National Guard was deployed to maintain peace[^1]. Though Roosevelt was able to achieve a mediated solution and end the strike, labor remained relatively uninfluential at the time.
 
+{% include feature/image.html filename="anthracite coal comission 1902.jpg" alt="Members of Anthracite Coal Strike Commission pose for photograph" caption="Anthracite Coal Strike Commission appointed 1902 by President Roosevelt " link="http://hdl.loc.gov/loc.pnp/stereo.1s01945" %}
 
 ### 1910s
 
 The United States entered World War one in 1917, almost 3 years after the conflict began in 1914. Strikes were consistent across the country in the years leading up to American entry, as workers continued to press for better working conditions and pay. Wilson sought to avoid domestic conflict to present a unified front and increase the efficiency of the war effort. He collaborated with Samuel Gompers, the head of the American Federation of Labor, to guarantee that affiliated unions would not strike for the duration of the war. Gompers called on workers to “to see to it that the spirit and methods of democracy are maintained within our own country” as the US fought autocracy abroad and asserted that “labor has a further interest in the war. This war is a people's war, labor's war. The final outcome will be determined in the factories, the mills, the shops, the mines, the farms, the industries and the transportation agencies of the various countries.” [^2] This view of patience and unity was not universal, however it limited the extent of labor actions during the war years.
+
+{% include feature/image.html filename="samuel gompers 1911.jpg" alt="portrait of Samuel Gompers " caption="Samuel Gompers, president of AFL" link="https://lccn.loc.gov/2004672095" %}
 
 ### 1920s
 
@@ -80,3 +83,5 @@ However, labor was not entirely successful, as Red Scares swept the nation and i
 [^8]: “National Labor Relations Act,” National Labor Relations Board, accessed 10 March 2022, https://www.nlrb.gov/guidance/key-reference-materials/national-labor-relations-act.
 [^9]: William Rittase, “Production. Parachute making,” image of Bonnie Bonness, U.S. Office of War Information, August 1942, image, https://lccn.loc.gov/2017693485.
 [^10]: Ann Rosener, “Women in War,” image of Annie Tabor, U.S. Office of War Information, October 1942, image, https://lccn.loc.gov/2017694610.
+
+[b]Other Images[/b]
