@@ -4,7 +4,7 @@ layout: about
 permalink: /essay-02.html
 ---
 
-{% include feature/nav-menu.html sections="Introduction;1900s;1910s;1920s;1930s;1940s;Conclusion;Notes" %}
+{% include feature/nav-menu.html sections="Introduction;1900s;1910s;1920s;1930s;1940s;1950s;1960s;1970s;1980s;1990s;Conclusion;Notes" %}
 
 # Labor and the State: 20th Century USA
 
@@ -56,6 +56,7 @@ FDR had introduced many policies during the Depression to alleviate economic str
 ### 1950s
 
 
+
 ### 1960s
 
 
@@ -80,6 +81,17 @@ However, labor was not entirely successful, as Red Scares swept the nation and i
 
 ## Notes
 
+**Images**
+1. U.S. Farm Security Administration/Office of War, Poster Strawberry Farmers Union, image, 1941, https://lccn.loc.gov/2017762003.
+2. William Herman Rau, Anthracite Coal Strike Commission Appointed 1902 By President Roosevelt, image, 1903, https://lccn.loc.gov/2010646576.
+3. E Chickering, Samuel Gompers, image, 1911, https://lccn.loc.gov/2004672095.
+4. Lewis Hine, “Charlie, ten year old shiner, Newark, N.J. August 1, 1924,” photograph taken by Lewis Hine, 1 August 1924, image, https://hdl.loc.gov/loc.pnp/nclc.04058.
+5. Dorothea Lange, Toward Los Angeles, California, image, 1937, https://lccn.loc.gov/2004681694.
+6. Ann Rosener, “Women in War,” image of Annie Tabor, U.S. Office of War Information, October 1942, image, https://lccn.loc.gov/2017694610.
+7. 
+
+----
+
 [^1]: “Fierce Fighting in Streets | Collision Between Striking Miners and Deputy Sheriffs,” Los Angeles Herald, 31 July, 1902, https://cdnc.ucr.edu/cgi-bin/cdnc?a=d&d=LAH19020731.2.2&e=-------en--20--1--txt-txIN--------1.
 [^2]: Samuel Gompers, “Labor’s Service to Freedom,” Nation’s Forum, audio, 1:00, http://hdl.loc.gov/loc.mbrsrs/nforum.9000025.
 [^3]: “Proclamation – Protection Against Domestic Violence in West Virginia,” Warren G. Harding, UC Santa Barbara, accessed 10 March 2022, https://www.presidency.ucsb.edu/documents/proclamation-protection-against-domestic-violence-west-virginia.
@@ -88,12 +100,3 @@ However, labor was not entirely successful, as Red Scares swept the nation and i
 [^6]: “National Labor Relations Act,” National Labor Relations Board, accessed 10 March 2022, https://www.nlrb.gov/guidance/key-reference-materials/national-labor-relations-act.
 [^7]: David Coolidge, ""Operation Dixie" - CIO Begins Labor's Great March To The South", Labor Action 10, no. 17 (1946), https://www.marxists.org/history/etol/writers/mckinney/1946/04/opdixie.html.
 [^8]: ibid
-
-[b]Images[/b]
-1. U.S. Farm Security Administration/Office of War, Poster Strawberry Farmers Union, image, 1941, https://lccn.loc.gov/2017762003.
-2. William Herman Rau, Anthracite Coal Strike Commission Appointed 1902 By President Roosevelt, image, 1903, https://lccn.loc.gov/2010646576.
-3. E Chickering, Samuel Gompers, image, 1911, https://lccn.loc.gov/2004672095.
-4. Lewis Hine, “Charlie, ten year old shiner, Newark, N.J. August 1, 1924,” photograph taken by Lewis Hine, 1 August 1924, image, https://hdl.loc.gov/loc.pnp/nclc.04058.
-5. Dorothea Lange, Toward Los Angeles, California, image, 1937, https://lccn.loc.gov/2004681694.
-6. Ann Rosener, “Women in War,” image of Annie Tabor, U.S. Office of War Information, October 1942, image, https://lccn.loc.gov/2017694610.
-7. 
