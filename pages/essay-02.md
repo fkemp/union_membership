@@ -49,12 +49,14 @@ In 1932, Franklin Delano Roosevelt was elected president. Under his administrati
 
 ### 1940s
 
-FDR had introduced many policies during the Depression to alleviate economic struggles, and though modestly successful, was unable to fully recover the American economy. With the outbreak of another war in Europe in 1939 America was uniquely situated to profit from the conflict. FDR offered financial aid to the Allied Powers until Japan bombed Pearl Harbor in 1941. After the war, the Congress of Industrial Organizations launched “Operation Dixie” to organize southern “rubber, textile, furniture and clothing industries”.[^7] It followed in the ideals of the Civil War, seeking the liberation of the South from economic exploitation, calling the movement “the real Third American Revolution".[^8]
+FDR had introduced many policies during the Depression to alleviate economic struggles, and though modestly successful, was unable to fully recover the American economy. With the outbreak of another war in Europe in 1939 America was uniquely situated to profit from the conflict. FDR offered financial aid to the Allied Powers until Japan bombed Pearl Harbor in 1941. After the war, the Congress of Industrial Organizations launched “Operation Dixie” to organize southern “rubber, textile, furniture and clothing industries”.[^7] It followed in the ideals of the Civil War, seeking the liberation of the South from economic exploitation, calling the movement “the real Third American Revolution".[^8] In Washington D.C., Congress passed the Labor Management Relations Act of 1947, which instituted a policy of “settlement of issues between employers and employees through the processes of conference”.[^9] This policy dramatically limited the legal power of labor unions, as they were unable to take more direct action against their employers and instead had to negotiate and compromise with companies.
 
-{% include feature/image.html filename="african-americans-wwii-workforce.jpg" alt="A black woman, Annie Tarbor, is employed in factory work in the midwest, working a lathe" caption="Annie Tarbor works in a Milwaukee factory making aircraft engines for the war effort" link="https://www.loc.gov/resource/fsa.8b07728/" %}###
+{% include feature/image.html filename="african-americans-wwii-workforce.jpg" alt="A black woman, Annie Tarbor, is employed in factory work in the midwest, working a lathe" caption="Annie Tarbor works in a Milwaukee factory making aircraft engines for the war effort" link="https://www.loc.gov/resource/fsa.8b07728/" %}
 
 ### 1950s
 
+The post war decade was a time of great prosperity. The military-industrial complex, which was developed in the second world war, was continued. The American economy expanded and dominated the global market. Once again, however, this prosperity was not spread evenly. Suburban neighborhoods grew up near cities, and only allowed white tenants. Jim Crow policies in the South hampered economic growth and development for the African American community. 
+For organized labor, this decade was difficult. The Red Scare consumed the nation, and they were looked on with suspicion. The House Un-American Activities Committee pursued individuals relentlessly if they were suspected of having communist ties. “Most of the men and women who were targeted during the McCarthy era were or had been in or near the communist party, and many of them were union activists”.[^10] Attempts by the labor movement to seek redress and gain economic protections were rebuffed and denied.
 
 
 ### 1960s
@@ -88,7 +90,8 @@ However, labor was not entirely successful, as Red Scares swept the nation and i
 4. Lewis Hine, “Charlie, ten year old shiner, Newark, N.J. August 1, 1924,” photograph taken by Lewis Hine, 1 August 1924, image, https://hdl.loc.gov/loc.pnp/nclc.04058.
 5. Dorothea Lange, Toward Los Angeles, California, image, 1937, https://lccn.loc.gov/2004681694.
 6. Ann Rosener, “Women in War,” image of Annie Tabor, U.S. Office of War Information, October 1942, image, https://lccn.loc.gov/2017694610.
-7. 
+7. Roger Higgins, Levittown Center Shopping Center, Levittown, Long Island, N.Y., image, 1957, https://lccn.loc.gov/98510726.
+8. 
 
 ----
 
@@ -100,3 +103,5 @@ However, labor was not entirely successful, as Red Scares swept the nation and i
 [^6]: “National Labor Relations Act,” National Labor Relations Board, accessed 10 March 2022, https://www.nlrb.gov/guidance/key-reference-materials/national-labor-relations-act.
 [^7]: David Coolidge, ""Operation Dixie" - CIO Begins Labor's Great March To The South", Labor Action 10, no. 17 (1946), https://www.marxists.org/history/etol/writers/mckinney/1946/04/opdixie.html.
 [^8]: ibid
+[^9]: "Labor Management Relations Act" (1947).
+[^10]: Ellen Schrecker, "Mccarthyism's Ghosts: Anticommunism And American Labor", New Labor Forum 4, no. - (1999): 8, https://www.jstor.org/stable/40342219.
