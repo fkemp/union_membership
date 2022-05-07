@@ -45,23 +45,29 @@ For the labor movement, this was a time of great struggle. The end of World War 
 
 The Great Depression, begun in 1929 with the stock market crash, ushered in an era of economic upheaval. Unemployment skyrocketed as businesses were forced to lay off employees and shut down. A run on the banks in the early years of the depression increased hardships, as banks closed, and people lost their life savings.  
 
-In 1932, Franklin Delano Roosevelt was elected president. Under his administration, labor unions received legal protections, first under the National Industrial Recovery Act in 1933, “employees shall have the right to organize and bargain collectively through representatives of their own choosing, and shall be free from the interference restraint, or coercion of employers of labor, or their agents, in the designation of such representatives”[^7] then when that was ruled illegal, under the Wagner Act in 1935, “Employees shall have the right to self-organization, to form, join, or assist labor organizations, to bargain collectively through representatives of their own choosing, and to engage in other concerted activities for the purpose of collective bargaining or other mutual aid or protection”[^8]. These two laws enabled workers to gain access to unions at a higher rate and increased the influence of the labor movement in the economic sphere.
-
-
+In 1932, Franklin Delano Roosevelt was elected president. Under his administration, labor unions received legal protections, first under the National Industrial Recovery Act in 1933, “employees shall have the right to organize and bargain collectively through representatives of their own choosing, and shall be free from the interference restraint, or coercion of employers of labor, or their agents, in the designation of such representatives”[^5] then when that was ruled illegal, under the Wagner Act in 1935, “Employees shall have the right to self-organization, to form, join, or assist labor organizations, to bargain collectively through representatives of their own choosing, and to engage in other concerted activities for the purpose of collective bargaining or other mutual aid or protection”[^6]. These two laws enabled workers to gain access to unions at a higher rate and increased the influence of the labor movement in the economic sphere.
 
 ### 1940s
 
-FDR had introduced many policies during the Depression to alleviate economic struggles, and though modestly successful, was unable to fully recover the American economy. With the outbreak of another war in Europe in 1939 when Adolf Hitler invaded Poland, America was uniquely situated to profit from the conflict. FDR remained tacitly neutral, while offering financial support and older military equipment to the United Kingdom. FDR also worked to improve American military capacity. When Japan bombed Pearl Harbor, HI, the nation was able to respond quickly and establish a military-industrial complex to generate economic output to supply the war effort in the Pacific and European Theaters. 
+FDR had introduced many policies during the Depression to alleviate economic struggles, and though modestly successful, was unable to fully recover the American economy. With the outbreak of another war in Europe in 1939 America was uniquely situated to profit from the conflict. FDR offered financial aid to the Allied Powers until Japan bombed Pearl Harbor in 1941. After the war, the Congress of Industrial Organizations launched “Operation Dixie” to organize southern “rubber, textile, furniture and clothing industries”.[^7] It followed in the ideals of the Civil War, seeking the liberation of the South from economic exploitation, calling the movement “the real Third American Revolution".[^8]
 
-This new military-industrial complex, as well as the institution of a draft, opened new economic opportunities for women. Because industrial labor had been a male dominated field, the political parties and labor unions representing and advocating for these workers often ignored women’s issues. The reduction of white men also allowed for the African American community to take a more prominent role in society, moving northward and into urban areas, and demanding more vocally equal rights and the end to Jim Crow. These two groups had been isolated from the labor movement, but were now prominent and necessary components of industry, staking claims for themselves as equal members of society.
+{% include feature/image.html filename="african-americans-wwii-workforce.jpg" alt="A black woman, Annie Tarbor, is employed in factory work in the midwest, working a lathe" caption="Annie Tarbor works in a Milwaukee factory making aircraft engines for the war effort" link="https://www.loc.gov/resource/fsa.8b07728/" %}###
 
-{% include feature/image.html filename="women-in-workforce-1942.jpg" alt="A white woman, Bettie Bonness, attaches shroud cords to parachute straps, as worker for war effort on the home front" caption="Bettie Bonness makes parachutes as part of the war effort, showing the need for women in the public economic sector" link="https://www.loc.gov/resource/fsa.8b09474/" %}[^9]
-
-{% include feature/image.html filename="african-americans-wwii-workforce.jpg" alt="A black woman, Annie Tarbor, is employed in factory work in the midwest, working a lathe" caption="Annie Tarbor works in a Milwaukee factory making aircraft engines for the war effort" link="https://www.loc.gov/resource/fsa.8b07728/" %}[^10]
+### 1950s
 
 
+### 1960s
 
-{% include feature/line-chart.html data="party-platforms-1948-2000-republican" topic=" social welfare" %}
+
+### 1970s
+
+
+### 1980s
+
+
+### 1990s
+
+
 ---
 
 ## Conclusion
@@ -78,12 +84,10 @@ However, labor was not entirely successful, as Red Scares swept the nation and i
 [^2]: Samuel Gompers, “Labor’s Service to Freedom,” Nation’s Forum, audio, 1:00, http://hdl.loc.gov/loc.mbrsrs/nforum.9000025.
 [^3]: “Proclamation – Protection Against Domestic Violence in West Virginia,” Warren G. Harding, UC Santa Barbara, accessed 10 March 2022, https://www.presidency.ucsb.edu/documents/proclamation-protection-against-domestic-violence-west-virginia.
 [^4]: The Wheeling Intelligencer, "Heavy Firing On The Boone-Logan Sector", 1921, https://chroniclingamerica.loc.gov/lccn/sn86092536/1921-09-03/ed-1/seq-1/.
-[^5]: 
-[^6]: 
-[^7]: “National Industrial Recovery Act,” National Archives, last reviewed February 8, 2022, https://www.archives.gov/milestone-documents/national-industrial-recovery-act.
-[^8]: “National Labor Relations Act,” National Labor Relations Board, accessed 10 March 2022, https://www.nlrb.gov/guidance/key-reference-materials/national-labor-relations-act.
-[^9]: William Rittase, “Production. Parachute making,” image of Bonnie Bonness, U.S. Office of War Information, August 1942, image, https://lccn.loc.gov/2017693485.
-[^10]: Ann Rosener, “Women in War,” image of Annie Tabor, U.S. Office of War Information, October 1942, image, https://lccn.loc.gov/2017694610.
+[^5]: “National Industrial Recovery Act,” National Archives, last reviewed February 8, 2022, https://www.archives.gov/milestone-documents/national-industrial-recovery-act.
+[^6]: “National Labor Relations Act,” National Labor Relations Board, accessed 10 March 2022, https://www.nlrb.gov/guidance/key-reference-materials/national-labor-relations-act.
+[^7]: David Coolidge, ""Operation Dixie" - CIO Begins Labor's Great March To The South", Labor Action 10, no. 17 (1946), https://www.marxists.org/history/etol/writers/mckinney/1946/04/opdixie.html.
+[^8]: ibid
 
 [b]Images[/b]
 1. U.S. Farm Security Administration/Office of War, Poster Strawberry Farmers Union, image, 1941, https://lccn.loc.gov/2017762003.
@@ -91,4 +95,5 @@ However, labor was not entirely successful, as Red Scares swept the nation and i
 3. E Chickering, Samuel Gompers, image, 1911, https://lccn.loc.gov/2004672095.
 4. Lewis Hine, “Charlie, ten year old shiner, Newark, N.J. August 1, 1924,” photograph taken by Lewis Hine, 1 August 1924, image, https://hdl.loc.gov/loc.pnp/nclc.04058.
 5. Dorothea Lange, Toward Los Angeles, California, image, 1937, https://lccn.loc.gov/2004681694.
-6. 
+6. Ann Rosener, “Women in War,” image of Annie Tabor, U.S. Office of War Information, October 1942, image, https://lccn.loc.gov/2017694610.
+7. 
