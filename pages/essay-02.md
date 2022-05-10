@@ -58,9 +58,11 @@ FDR had introduced many policies during the Depression to alleviate economic str
 The post war decade was a time of great prosperity. The military-industrial complex, which was developed in the second world war, was continued. The American economy expanded and dominated the global market. Once again, however, this prosperity was not spread evenly. Suburban neighborhoods grew up near cities, and only allowed white tenants. Jim Crow policies in the South hampered economic growth and development for the African American community. 
 For organized labor, this decade was difficult. The Red Scare consumed the nation, and they were looked on with suspicion. The House Un-American Activities Committee pursued individuals relentlessly if they were suspected of having communist ties. “Most of the men and women who were targeted during the McCarthy era were or had been in or near the communist party, and many of them were union activists”.[^10] Attempts by the labor movement to seek redress and gain economic protections were rebuffed and denied.
 
+{% include feature/image.html filename="levittown.jpg" alt="A block of stores in a Levittown" caption="Levittown Shopping Center, Long Island NY" link="https://lccn.loc.gov/98510726" %}
 
 ### 1960s
 
+The 60’s saw social uprising, as oppressed groups demanded equal rights in more visible ways. The living standard rose on the heels of economic prosperity, yet once again, these improvements were shared unequally, as minority groups were denied access to the benefits of prosperity. This prosperity also led to greater economic output from companies. This increased profit came at the expense of working conditions. Unions were weakened by policies of mitigation and negotiation, and their legal ability to strike was almost entirely removed. To legally strike workers must “exhaust the grievance procedure, then (1) seek official authorization …, (2) win majority support in a bargaining-unit election, (3) post a strike notice, and (4) allow [union] representatives to monitor and mediate the dispute”.[^11] This process was long and ineffective for the redress of workers’ concerns. Despite these setbacks, workers still went on strikes, called “wildcat strikes” to protest working conditions. These strikes were not authorized, nor officially organized by unions. However, they enabled workers, primarily manufacturing workers, to protest and improve their working conditions.[^12]
 
 ### 1970s
 
@@ -105,3 +107,5 @@ However, labor was not entirely successful, as Red Scares swept the nation and i
 [^8]: ibid
 [^9]: "Labor Management Relations Act" (1947).
 [^10]: Ellen Schrecker, "Mccarthyism's Ghosts: Anticommunism And American Labor", New Labor Forum 4, no. - (1999): 8, https://www.jstor.org/stable/40342219.
+[^11]: James R. Zetka, "Work Organization And Wildcat Strikes In The U.S. Automobile Industry, 1946 To 1963", American Sociological Review 57, no. 2 (1992): 215, doi:10.2307/2096206.
+[^12]: Sharon Smith, "The Workers’ Rebellion Of The 1960S", Socialistworker.Org, Last modified 2011, https://socialistworker.org/2011/08/26/workers-rebellion-of-the-1960s.
