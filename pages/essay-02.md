@@ -47,6 +47,8 @@ The Great Depression, begun in 1929 with the stock market crash, ushered in an e
 
 In 1932, Franklin Delano Roosevelt was elected president. Under his administration, labor unions received legal protections, first under the National Industrial Recovery Act in 1933, “employees shall have the right to organize and bargain collectively through representatives of their own choosing, and shall be free from the interference restraint, or coercion of employers of labor, or their agents, in the designation of such representatives”[^5] then when that was ruled illegal, under the Wagner Act in 1935, “Employees shall have the right to self-organization, to form, join, or assist labor organizations, to bargain collectively through representatives of their own choosing, and to engage in other concerted activities for the purpose of collective bargaining or other mutual aid or protection”[^6]. These two laws enabled workers to gain access to unions at a higher rate and increased the influence of the labor movement in the economic sphere.
 
+{% include feature/image.html filename="walking billboard depression.jpg" alt="Two men walk under a billboard advertising a train company" link="https://lccn.loc.gov/2004681694" %}
+
 ### 1940s
 
 FDR had introduced many policies during the Depression to alleviate economic struggles, and though modestly successful, was unable to fully recover the American economy. With the outbreak of another war in Europe in 1939 America was uniquely situated to profit from the conflict. FDR offered financial aid to the Allied Powers until Japan bombed Pearl Harbor in 1941. After the war, the Congress of Industrial Organizations launched “Operation Dixie” to organize southern “rubber, textile, furniture and clothing industries”.[^7] It followed in the ideals of the Civil War, seeking the liberation of the South from economic exploitation, calling the movement “the real Third American Revolution".[^8] In Washington D.C., Congress passed the Labor Management Relations Act of 1947, which instituted a policy of “settlement of issues between employers and employees through the processes of conference”.[^9] This policy dramatically limited the legal power of labor unions, as they were unable to take more direct action against their employers and instead had to negotiate and compromise with companies.
@@ -63,6 +65,8 @@ For organized labor, this decade was difficult. The Red Scare consumed the natio
 ### 1960s
 
 The 60’s saw social uprising, as oppressed groups demanded equal rights in more visible ways. The living standard rose on the heels of economic prosperity, yet once again, these improvements were shared unequally, as minority groups were denied access to the benefits of prosperity. This prosperity also led to greater economic output from companies. This increased profit came at the expense of working conditions. Unions were weakened by policies of mitigation and negotiation, and their legal ability to strike was almost entirely removed. To legally strike workers must “exhaust the grievance procedure, then (1) seek official authorization …, (2) win majority support in a bargaining-unit election, (3) post a strike notice, and (4) allow [union] representatives to monitor and mediate the dispute”.[^11] This process was long and ineffective for the redress of workers’ concerns. Despite these setbacks, workers still went on strikes, called “wildcat strikes” to protest working conditions. These strikes were not authorized, nor officially organized by unions. However, they enabled workers, primarily manufacturing workers, to protest and improve their working conditions.[^12]
+
+{% include feature/image.html filename="strike poster.jpg" alt="Text reading Strike! while the iron is hot! wages for housework, showing an ironing board with with a hot iron and pants." caption="A poster protesting for equal rights and equal pay for women" link="https://lccn.loc.gov/2015649375" %}
 
 ### 1970s
 
@@ -93,7 +97,7 @@ However, labor was not entirely successful, as Red Scares swept the nation and i
 5. Dorothea Lange, Toward Los Angeles, California, image, 1937, https://lccn.loc.gov/2004681694.
 6. Ann Rosener, “Women in War,” image of Annie Tabor, U.S. Office of War Information, October 1942, image, https://lccn.loc.gov/2017694610.
 7. Roger Higgins, Levittown Center Shopping Center, Levittown, Long Island, N.Y., image, 1957, https://lccn.loc.gov/98510726.
-8. 
+8. Betsy Warrior, Strike! While The Iron Is Hot! Wages For Housework., image, 1965, https://lccn.loc.gov/2015649375.
 
 ----
 
