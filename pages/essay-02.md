@@ -83,6 +83,7 @@ The aggressive response to the PATCO strike finalized the federal government’s
 
 ### 1990s
 
+Because of federal action, organized labor became a small force in the 1990s. This did not stop unions from raising concerns over economic policies, such as the North American Free Trade Agreement, or NAFTA. Overall, unions opposed the passage of NAFTA, however support for this opposition varied by trade, “private sector unions, especially manufacturing unions, that see NAFTA as crushing U.S. jobs and decimating their membership” and opposed it more heavily than other unions, such as teaching unions.[^18] Manufacturing unions feared that moving jobs to Mexico would cause more layoffs and encourage the closing of factories and plants where they worked. To attempt to sway and convince people that NAFTA would be beneficial for the USA, claiming “it is not about exporting jobs, it is about freely exporting American products” and that it would help the American automobile industry grow.[^19][^20]
 
 ---
 
@@ -125,3 +126,6 @@ However, labor was not entirely successful, as Red Scares swept the nation and i
 [^15]: "Unhappy Again", Time Magazine, 1986, http://www.time.com/time/magazine/article/0,9171,962487,00.html.
 [^16]: The New York Times, "Around The Nation; US Asks Lifting Of Stay On Patco Decertification", 1981, https://www.nytimes.com/1981/10/27/us/around-the-nation-us-asks-lifting-of-stay-on-patco-decertification.html?searchResultPosition=6.
 [^17]: William Serrin, "Reagan Stance On PATCO Causes Unions Anxiety", The New York Times, 1981, https://www.nytimes.com/1981/10/21/us/reagan-stance-on-patco-causes-unions-anxiety.html?searchResultPosition=5.
+[^18]: Thomas B. Edsall, "Are Labor Tactics On NAFTA Real Threats Or 'Tough Love'?", The Washington Post, 1993, https://www.washingtonpost.com/archive/politics/1993/11/16/are-labor-tactics-on-nafta-real-threats-or-tough-love/e9fcf407-c1d5-40cc-a491-1f3e1017ff6b/.
+[^19]: Edward M. Kennedy and Alan K. Simpson, "Labor Unions And NAFTA", podcast, Face Off, Last modified 1993, https://www.jfklibrary.org/asset-viewer/archives/EMKSEN/AU0009/EMKSEN-AU0009-030/EMKSEN-AU0009-030-008/EMKSEN-AU0009-030-008.
+[^20]: William Neikirk, "Reich: Labor 'Plain Wrong' On NAFTA", The Chicago Tribune, 1993, https://www.chicagotribune.com/news/ct-xpm-1993-07-14-9307140084-story.html.
