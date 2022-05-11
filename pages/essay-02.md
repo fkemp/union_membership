@@ -76,6 +76,10 @@ This decade saw the height of union influence and power. The social movements be
 
 ### 1980s
 
+This increase of corporate power became practically insurmountable under the Reagan presidency. To combat stagflation, Reagan began deregulating the economy. He also took an actively anti-union stance. A significant example of this view was the PATCO strike in 1981. PATCO, or the Professional Air Traffic Controllers Organization, wanted higher pay and shorter working hours. When their demands were not met, they went on strike on August 3, 1981. Despite supporting the union during his campaign, Reagan claimed that the strike was illegal and ordered the strikers back to work. When they did not return, he “ordered the Federal Aviation Administration to fire 11,345 strikers and hire replacements”.[^15] On October 23, “the Federal Labor Relations Authority ordered the immediate decertification of Patco … and said the union no longer represented air controllers”.[^16] This prevented these workers from seeking redress of their issues through unionization and removed their ability to organize as a collective. Because the initial strike itself was illegal, PATCO was unable to receive solidarity and aid from other labor unions, “Leaders of other unions say they are hamstrung because Federal laws prohibit secondary boycotts and because the controllers' strike was illegal and thus unions that observed the picket lines might be found in violation of Federal law”.[^17] The enforcement of these anti-union laws put many other labor unions on the defensive, as they were uncertain what actions they could and could not take, both in support of PATCO, and in negotiations for their own members.
+
+The aggressive response to the PATCO strike finalized the federal government’s control over union activities and ushered in a new era of labor opposition through the Taft-Hartley Act. Businesses now understood that President Reagan was willing to punish unions for protesting their conditions. Unions found many of their avenues of change severely limited or cut off completely. Coupled with a strong anti-union sentiment in the public, work force organization declined dramatically.
+
 
 ### 1990s
 
@@ -118,3 +122,6 @@ However, labor was not entirely successful, as Red Scares swept the nation and i
 [^12]: Sharon Smith, "The Workers’ Rebellion Of The 1960S", Socialistworker.Org, Last modified 2011, https://socialistworker.org/2011/08/26/workers-rebellion-of-the-1960s.
 [^13]: The New York Times, "Mediators Enter Coast Track Strike", 1970, https://www.nytimes.com/1970/01/01/archives/mediators-enter-coast-track-strike.html?searchResultPosition=5.
 [^14]: Damon Stetson, "Transit Parley Pressed; 12% Pay-Increase Offer Is Turned Down By Unions", The New York Times, 1970, https://www.nytimes.com/1970/01/01/archives/transit-parley-pressed-12-payincrease-offer-is-turned-down-by.html?searchResultPosition=2.
+[^15]: "Unhappy Again", Time Magazine, 1986, http://www.time.com/time/magazine/article/0,9171,962487,00.html.
+[^16]: The New York Times, "Around The Nation; US Asks Lifting Of Stay On Patco Decertification", 1981, https://www.nytimes.com/1981/10/27/us/around-the-nation-us-asks-lifting-of-stay-on-patco-decertification.html?searchResultPosition=6.
+[^17]: William Serrin, "Reagan Stance On PATCO Causes Unions Anxiety", The New York Times, 1981, https://www.nytimes.com/1981/10/21/us/reagan-stance-on-patco-causes-unions-anxiety.html?searchResultPosition=5.
