@@ -70,6 +70,9 @@ The 60’s saw social uprising, as oppressed groups demanded equal rights in mor
 
 ### 1970s
 
+This decade saw the height of union influence and power. The social movements begun in the 60’s continued, as people protested against discrimination, imperialism, and injustices. The labor movement continued their wildcat strikes and resisted increased automation and output. Stagflation also became a pressing issue at this time, as wages stagnated while prices continued to inflate. To address these issues, union workers attempted to bargain with their employers to raise wages. In California, racetrack workers went on strike after “negotiations broke off … when the federation termed its offer of $2 a day in wage and fringe bene fits ‘final.’ The unions originally sought a package deal the tracks said would cost $6 a day and then dropped their demands to $4”.[^13] The Transit Workers Union faced similart issues and attempted to negotiate a pay raise for its members. They faced great institutional opposition, as the “State Supreme Court Justice George Postel signed an order enjoining the Transport Workers and the Amalgamated Transit Union from striking” and “under the Taylor Law, which prohibits strikes by public employees, both unions would be subject to unlimited fines, and individual workers who struck would be subject to probation and the loss of two days' pay for each day they were on strike”.[^14] These institutional setbacks were the result of greater efforts to delegitimize union militancy and increase the power of companies through mediation.
+
+
 
 ### 1980s
 
@@ -113,3 +116,5 @@ However, labor was not entirely successful, as Red Scares swept the nation and i
 [^10]: Ellen Schrecker, "Mccarthyism's Ghosts: Anticommunism And American Labor", New Labor Forum 4, no. - (1999): 8, https://www.jstor.org/stable/40342219.
 [^11]: James R. Zetka, "Work Organization And Wildcat Strikes In The U.S. Automobile Industry, 1946 To 1963", American Sociological Review 57, no. 2 (1992): 215, doi:10.2307/2096206.
 [^12]: Sharon Smith, "The Workers’ Rebellion Of The 1960S", Socialistworker.Org, Last modified 2011, https://socialistworker.org/2011/08/26/workers-rebellion-of-the-1960s.
+[^13]: The New York Times, "Mediators Enter Coast Track Strike", 1970, https://www.nytimes.com/1970/01/01/archives/mediators-enter-coast-track-strike.html?searchResultPosition=5.
+[^14]: Damon Stetson, "Transit Parley Pressed; 12% Pay-Increase Offer Is Turned Down By Unions", The New York Times, 1970, https://www.nytimes.com/1970/01/01/archives/transit-parley-pressed-12-payincrease-offer-is-turned-down-by.html?searchResultPosition=2.
